@@ -2,7 +2,7 @@ import cv2
 
 face_detect=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
-img=cv2.imread("KoKy_2.jpg")
+img=cv2.imread("KoKy_2.jpg") ## Here You put the picture name and its extention
 
 gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 
