@@ -1,3 +1,5 @@
+##Here you can resize the images
+
 import cv2
 
 ##img=cv2.imread("Face.jpg")
